@@ -1,0 +1,13 @@
+{
+  "name": "meeting-share-system",
+  "version": "1.0.0",
+  "description": "سیستم اشتراک‌گذاری لحظه‌ای جلسات",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
